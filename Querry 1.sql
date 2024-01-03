@@ -1,0 +1,1 @@
+SELECT COUNT(DISTINCT game) as total_olympic_games FROM olympics_history;
